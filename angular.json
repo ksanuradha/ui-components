@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ui-components"
+    }
+  },
+  "defaultProject": "ui-components",
+  "cli": {
+    "analytics": "94bea718-ea69-4781-ad66-6f13a5dfdda7"
+  }
 }
